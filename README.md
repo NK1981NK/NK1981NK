@@ -10,3 +10,4 @@
 NK1981NK/NK1981NK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+فعلا دارم یاد میگیرم
